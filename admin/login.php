@@ -60,11 +60,11 @@ else
     <div class="swapper mt-5 p-4">
         <h1 class="text-danger fs-3 text-center">Đăng nhập</h1>
 <div class="mb-3">
-    <label for=""><strong>ten tai khoan</strong></label>
+    <label for=""><strong>Ten tai khoan</strong></label>
     <input class="form-control" type="text" name="username"placeholder="Tên đăng nhập hoặc email"required>
 </div>
 <div class="mb-3">
-    <label for=""><strong>mk</strong></label>
+    <label for=""><strong>Mat khau</strong></label>
     <input class="form-control" type="password" name="password"placeholder="Mật khẩu"required>
 </div>
 <div class="mb-3 text-end">
