@@ -1,0 +1,23 @@
+{
+    "name": "nguyenthibichhuyen/shopbanhang",
+    "description": "xay dung website ban hang-thay loi day",
+    "authors": [
+        {
+            "name": "Nguyen Thi Bich Huyen",
+            "email": "nguyenthibichhuyen@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "./app/Route.php",
+            "./config/database.php"
+        ]
+    },
+    "require": {
+        "illuminate/database": "^10.26",
+        "illuminate/events": "^10.26"
+    }
+}
