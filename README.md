@@ -6,5 +6,5 @@ Lớp:
 ## Đề tài
 Tên đề tài:Xây dựng website
 Công nghệ:Laravel+ReactUS
-# Kế hoạch thực hiện
+## Kế hoạch thực hiện
 
