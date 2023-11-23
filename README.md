@@ -1,10 +1,10 @@
 # phiếu đăng ký đề tài và kế hoạch thực hiện
 ## thông tin sinh viên
-Họ tên:Nguyễn Thị Bích Huyền
-Mã sinh viên:2122110058
-Lớp:
+- Họ tên:Nguyễn Thị Bích Huyền
+- Mã sinh viên:2122110058
+- Lớp:
 ## Đề tài
-Tên đề tài:Xây dựng website
-Công nghệ:Laravel+ReactUS
+- Tên đề tài:Xây dựng website
+- Công nghệ:Laravel+ReactUS
 ## Kế hoạch thực hiện
 
