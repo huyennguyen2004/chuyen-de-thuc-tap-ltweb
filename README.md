@@ -2,7 +2,7 @@
 ## thông tin sinh viên
 - Họ tên:Nguyễn Thị Bích Huyền
 - Mã sinh viên:2122110058
-- Lớp:
+- Lớp:CCQ2211B
 ## Đề tài
 - Tên đề tài:Xây dựng website
 - Công nghệ:Laravel+ReactUS
