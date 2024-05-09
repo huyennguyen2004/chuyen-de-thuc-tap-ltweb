@@ -5,7 +5,7 @@
 - Lớp:CCQ2211B
 ## Thông tin đề tài
 - Tên đề tài:Xây dựng website
-- Công nghệ:Laravel+ReactUS
+- Công nghệ:Laravel+ReactJS
 ## Kế hoạch thực hiện
 Tuần 1:Ngày bắt đầu....Ngày kết thúc(push)
 
